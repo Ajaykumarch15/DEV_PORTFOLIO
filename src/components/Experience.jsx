@@ -30,6 +30,12 @@ export default function Experience() {
       date: "Jun 2025 – Jul 2025",
       bullets: ["Azure ML deployments", "Scaling models"]
     },
+    {
+      company: "Infosys Springboard ",
+      role: "Intern",
+      date: "sep 2025 – nov 2025",
+      bullets: ["NLP Based Model", "Aspect based sentiment analysis"]
+    },
   ];
 
   return (
