@@ -46,7 +46,7 @@ Software Developer | AI/ML Engineer | Full-Stack Developer
 
 | Home Section | Projects Section |
 |--------------|------------------|
-| ![Home Screenshot](./screenshots/home.png) | ![Projects Screenshot](./screenshots/projects.png) |
+| ![Home Screenshot](./public/screenshots/home.png) | ![Projects Screenshot](./screenshots/projects.png) |
 
 Create a `screenshots` folder and add PNGs for better GitHub presentation.
 
