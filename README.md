@@ -50,7 +50,7 @@ Software Developer | AI/ML Engineer | Full-Stack Developer
 | ![Home Screenshot](./public/screenshots/skills.png) | ![Projects Screenshot](./public/screenshots/experience.png) |
 
 
-Create a `screenshots` folder and add PNGs for better GitHub presentation.
+
 
 ---
 
