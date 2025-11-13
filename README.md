@@ -8,7 +8,7 @@ Designed to present **projects, skills, experience, achievements, and certificat
 ---
 
 ## 🔗 Live Demo  
-🚧 _Coming Soon_  
+🚧 https://dev-portfolio-sandy-iota.vercel.app/
 📁 Repository: https://github.com/Ajaykumarch15/DEV_PORTFOLIO
 
 ---
