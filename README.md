@@ -9,6 +9,7 @@ Designed to present **projects, skills, experience, achievements, and certificat
 
 ## 🔗 Live Demo  
 🚧 https://dev-portfolio-sandy-iota.vercel.app/
+---
 📁 Repository: https://github.com/Ajaykumarch15/DEV_PORTFOLIO
 
 ---
@@ -46,9 +47,11 @@ Software Developer | AI/ML Engineer | Full-Stack Developer
 
 | Home Section | Projects Section |
 |--------------|------------------|
-| ![Home Screenshot](./screenshots/home.png) | ![Projects Screenshot](./screenshots/projects.png) |
+| ![Home Screenshot](./public/screenshots/home.png) | ![Projects Screenshot](./public/screenshots/projecs.png) |
+| ![Home Screenshot](./public/screenshots/skills.png) | ![Projects Screenshot](./public/screenshots/experience.png) |
 
-Create a `screenshots` folder and add PNGs for better GitHub presentation.
+
+
 
 ---
 
@@ -66,39 +69,6 @@ Create a `screenshots` folder and add PNGs for better GitHub presentation.
 
 ---
 
-## 📂 Folder Structure
-
-DEV_PORTFOLIO/
-│── public/
-│ ├── profile.jpg
-│ └── resume.pdf
-│
-│── src/
-│ ├── components/
-│ │ ├── Header.jsx
-│ │ ├── Hero.jsx
-│ │ ├── Skills.jsx
-│ │ ├── Projects.jsx
-│ │ ├── Experience.jsx
-│ │ ├── Certifications.jsx
-│ │ ├── Contact.jsx
-│ │ ├── Footer.jsx
-│ │ └── Badge.jsx
-│ │
-│ ├── pages/
-│ │ └── Home.jsx
-│ │
-│ ├── App.jsx
-│ ├── main.jsx
-│ └── index.css
-│
-├── vite.config.js
-├── package.json
-├── README.md
-└── .gitignore
-
-
----
 
 ## ⚙️ Installation
 
