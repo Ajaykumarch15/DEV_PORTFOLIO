@@ -1,5 +1,5 @@
 const RESUME_LINK = "/resume.pdf";
-const PROFILE_IMAGE = "/profile.jpg";
+const PROFILE_IMAGE = "/profile.jpeg";
 
 export default function Hero() {
   return (
