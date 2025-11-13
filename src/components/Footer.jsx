@@ -8,7 +8,7 @@ export default function Footer() {
         </div>
 
         <div className="flex gap-4 text-sm">
-          <a href="#">GitHub</a>
+          <a href="https://github.com/Ajaykumarch15">GitHub</a>
           <a href="https://www.linkedin.com/in/ajay-kumar-ch-3ba8b7259/">LinkedIn</a>
           <a href="/resume.pdf">Resume</a>
         </div>
