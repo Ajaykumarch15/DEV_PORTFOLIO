@@ -68,3 +68,105 @@ Create a `screenshots` folder and add PNGs for better GitHub presentation.
 
 ## 📂 Folder Structure
 
+DEV_PORTFOLIO/
+│── public/
+│ ├── profile.jpg
+│ └── resume.pdf
+│
+│── src/
+│ ├── components/
+│ │ ├── Header.jsx
+│ │ ├── Hero.jsx
+│ │ ├── Skills.jsx
+│ │ ├── Projects.jsx
+│ │ ├── Experience.jsx
+│ │ ├── Certifications.jsx
+│ │ ├── Contact.jsx
+│ │ ├── Footer.jsx
+│ │ └── Badge.jsx
+│ │
+│ ├── pages/
+│ │ └── Home.jsx
+│ │
+│ ├── App.jsx
+│ ├── main.jsx
+│ └── index.css
+│
+├── vite.config.js
+├── package.json
+├── README.md
+└── .gitignore
+
+
+---
+
+## ⚙️ Installation
+
+Follow the steps to run this project locally:
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/Ajaykumarch15/DEV_PORTFOLIO.git
+cd DEV_PORTFOLIO
+2️⃣ Install dependencies
+npm install
+
+3️⃣ Start development server
+npm run dev
+
+
+Runs at:
+
+http://localhost:5173/
+
+🎨 Tailwind CSS v4 Setup
+src/index.css
+@import "tailwindcss";
+
+vite.config.js
+import { defineConfig } from 'vite'
+import react from '@vitejs/plugin-react'
+import tailwindcss from '@tailwindcss/vite'
+
+export default defineConfig({
+  plugins: [
+    react(),
+    tailwindcss(),
+  ],
+})
+
+🚀 Deployment
+Deploy to Vercel
+npm run build
+vercel
+
+Deploy to Netlify
+npm run build
+# Drag & drop dist/ folder to Netlify dashboard
+
+Deploy to GitHub Pages
+
+Use vite plugin:
+
+npm run build
+
+🎯 Future Enhancements
+
+🌓 Dark Mode
+
+✨ Framer Motion animations
+
+🧾 Blog section
+
+📄 Dynamic project details pages
+
+🔥 Backend integration for contact form
+
+🤝 Contributing
+
+Contributions are welcome!
+Feel free to fork the repo and submit a pull request.
+
+📄 License
+
+This project is licensed under the MIT License.
