@@ -1,5 +1,5 @@
 import { useParams, Link, useNavigate } from "react-router-dom";
-import { projects } from "../data/projects";
+import { projects } from "../data/projects.js";
 import { motion } from "framer-motion";
 import { useEffect } from "react";
 
