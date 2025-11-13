@@ -1,198 +1,70 @@
-# 📁 **README.md — DEV_PORTFOLIO**
-
-```markdown
 # 🚀 Developer Portfolio — Ajay Kumar Chodipilli
 
-A modern, fully responsive **Software Developer + AI/ML Engineer Portfolio** built using **React + Vite + Tailwind CSS v4**.  
-Designed to showcase projects, experience, skills, certifications, and achievements in a clean, professional layout.
+A modern, fully responsive **Software Developer + AI/ML Engineer Portfolio** built using  
+**React (Vite) + Tailwind CSS v4**.
 
-Live Demo: _Coming soon_  
-Repository: https://github.com/Ajaykumarch15/DEV_PORTFOLIO
+Designed to present **projects, skills, experience, achievements, and certifications** in a clean and visually premium layout — optimized for recruiters and companies.
 
 ---
 
-## 🧑‍💻 Author
+## 🔗 Live Demo  
+🚧 _Coming Soon_  
+📁 Repository: https://github.com/Ajaykumarch15/DEV_PORTFOLIO
+
+---
+
+## 👨‍💻 Author
 
 **Ajay Kumar Chodipilli**  
 Software Developer | AI/ML Engineer | Full-Stack Developer  
-Email: ajaykumarchodipilli15@gmail.com  
-LinkedIn: https://www.linkedin.com/in/ajay-kumar-ch-3ba8b7259/
+
+📧 Email: **ajaykumarchodipilli15@gmail.com**  
+🔗 LinkedIn: https://www.linkedin.com/in/ajay-kumar-ch-3ba8b7259/  
+💻 GitHub: https://github.com/Ajaykumarch15  
 
 ---
 
 ## ✨ Features
 
 - ⚡ **Fast** React + Vite setup  
-- 🎨 **Tailwind CSS v4** for modern UI  
-- 📱 Fully **responsive** on all devices  
-- 🧩 Modular & component-based architecture  
-- 🎭 Hero section with dynamic visuals  
-- 🧠 Skills, Projects, Experience, Certifications, Contact sections  
-- 🖼️ Clean UI inspired by premium modern portfolio designs  
-- 🌐 Ready for deployment to **Vercel / Netlify / GitHub Pages**
+- 🎨 Tailwind CSS v4 styling (latest 2025 version)  
+- 📱 Fully responsive UI (mobile-first)  
+- 🧩 Modular component architecture  
+- 🎭 Professionally designed hero section  
+- 🧠 AI/ML, Full-Stack & Cloud skill sections  
+- 📚 Dynamic project cards  
+- 📝 Experience timeline  
+- 🛡️ Certifications section  
+- 📬 Contact section with form  
+- 🚀 Ready for deployment on Vercel/Netlify/GitHub Pages  
+
+---
+
+## 🖼️ Preview (Add screenshots later)
+
+> Replace these placeholders once your site is deployed:
+
+| Home Section | Projects Section |
+|--------------|------------------|
+| ![Home Screenshot](./screenshots/home.png) | ![Projects Screenshot](./screenshots/projects.png) |
+
+Create a `screenshots` folder and add PNGs for better GitHub presentation.
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Technology | Use |
-|-----------|------|
-| **React.js (Vite)** | Frontend framework |
-| **Tailwind CSS v4** | Styling |
-| **JavaScript (ES6)** | Logic |
-| **HTML5 / JSX** | UI Markup |
-| **Git & GitHub** | Version control & hosting |
+### **Frontend**
+- ⚛️ React (Vite)
+- 🎨 Tailwind CSS v4
+- 🧩 JSX Components
+
+### **Tools**
+- 🛠️ Git & GitHub  
+- 🧱 Node.js  
+- ⚡ Vite Bundler  
 
 ---
 
 ## 📂 Folder Structure
 
-```
-
-DEV_PORTFOLIO/
-│── public/
-│   ├── profile.jpg
-│   └── resume.pdf
-│
-│── src/
-│   ├── components/
-│   │   ├── Header.jsx
-│   │   ├── Hero.jsx
-│   │   ├── Skills.jsx
-│   │   ├── Projects.jsx
-│   │   ├── Experience.jsx
-│   │   ├── Certifications.jsx
-│   │   ├── Contact.jsx
-│   │   ├── Footer.jsx
-│   │   └── Badge.jsx
-│   │
-│   ├── pages/
-│   │   └── Home.jsx
-│   │
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── index.css
-│
-├── vite.config.js
-├── package.json
-├── README.md
-└── .gitignore
-
-````
-
----
-
-## ⚙️ Installation & Setup
-
-Follow these steps to run the project on your machine.
-
-### **1. Clone the repository**
-
-```bash
-git clone https://github.com/Ajaykumarch15/DEV_PORTFOLIO.git
-cd DEV_PORTFOLIO
-````
-
-### **2. Install dependencies**
-
-```bash
-npm install
-```
-
-### **3. Start development server**
-
-```bash
-npm run dev
-```
-
-The app will run at:
-
-```
-http://localhost:5173/
-```
-
----
-
-## 🎨 Tailwind CSS Setup (v4)
-
-Tailwind v4 uses a simpler setup:
-
-### **src/index.css**
-
-```css
-@import "tailwindcss";
-```
-
-### **vite.config.js**
-
-```js
-import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
-import tailwindcss from '@tailwindcss/vite'
-
-export default defineConfig({
-  plugins: [
-    react(),
-    tailwindcss(),
-  ],
-})
-```
-
----
-
-## 🚀 Deployment
-
-You can deploy this project easily to **Vercel**, **Netlify**, or **GitHub Pages**.
-
-### **Deploy to Vercel**
-
-```bash
-npm install -g vercel
-vercel
-```
-
-### **Deploy to Netlify**
-
-* Drag & Drop `dist/` folder after running:
-
-```bash
-npm run build
-```
-
----
-
-## 📌 Future Improvements
-
-* Add animations using Framer Motion
-* Add dark mode support
-* Add blog section
-* Add project case study pages
-
----
-
-## 🤝 Contributing
-
-Pull requests are welcome!
-If you have suggestions or improvements, feel free to open an issue.
-
----
-
-## 📄 License
-
-This project is licensed under **MIT License** — you are free to use, modify, and distribute.
-
----
-
-### ⭐ If you like this portfolio, give the repo a star on GitHub!
-
-```
-
----
-
-# Want your README to include screenshots, badges, or a live demo preview?
-
-I can generate a **fancier, more premium-looking README** too.  
-Just tell me:  
-👉 **“Add screenshots to the README”** or  
-👉 **“Generate a README with badges & preview section”**
-```
